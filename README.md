@@ -44,11 +44,6 @@ As you can see from the above image, the model has signifcant amount of error in
 | R2 Score      | 0.59          |
 | MSE           | 0.53          | 
 
-The above quant results show that <>
-## Key Takeaways
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
 
 ## How to Run
 
@@ -86,15 +81,6 @@ Linear Regression relationship between the independent variable X and the depend
 Linear relationship is extended to multiple Features (X1, X2, X3... Xn) y = b0+ b1X1+b2X2+...+bnXn. where b0 is intercept , b1,b2,b3...bn are the coefficient of Features X1, X2, X3, X4 .. Xn
 
 The objective is to find the values of b0,b1,b2,b3...bn, hat minimize the difference between the predicted y and the actual y for each data point.
-
-
-## Acknowledgements
-
-All the links, blogs, videos, papers you referred to/took inspiration from for building this project. 
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 
